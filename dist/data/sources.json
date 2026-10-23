@@ -1,0 +1,3894 @@
+{
+  "retrieved": "2026-10-23",
+  "count": 35478,
+  "countries": 182,
+  "listsAttempted": 388,
+  "contributingLists": 376,
+  "sourceFamily": "Wikipedia country and regional museum lists",
+  "index": "https://en.wikipedia.org/wiki/Lists_of_museums",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "method": "Names, locations, and type labels extracted from list tables and bullet lists; deduplicated by article URL or normalized name within a country. No source descriptions or images copied. Imported venues have not been individually checked for current operation or museum status. Missing fields remain unknown. English-language list coverage is uneven.",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Abruzzo",
+      "country": "Italy",
+      "title": "List of museums in Abruzzo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 21,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Afghanistan",
+      "country": "Afghanistan",
+      "title": "List of museums in Afghanistan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Alabama",
+      "country": "United States",
+      "title": "List of museums in Alabama",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 163,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Alaska",
+      "country": "United States",
+      "title": "List of museums in Alaska",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 70,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Albania",
+      "country": "Albania",
+      "title": "List of museums in Albania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 57,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Alberta",
+      "country": "Canada",
+      "title": "List of museums in Alberta",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 236,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Algeria",
+      "country": "Algeria",
+      "title": "List of museums in Algeria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 29,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Andorra",
+      "country": "Andorra",
+      "title": "List of museums in Andorra",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Angola",
+      "country": "Angola",
+      "title": "List of museums in Angola",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Antigua_and_Barbuda",
+      "country": "Antigua and Barbuda",
+      "title": "List of museums in Antigua and Barbuda",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Aosta_Valley",
+      "country": "Italy",
+      "title": "List of museums in Aosta Valley",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Apulia",
+      "country": "Italy",
+      "title": "List of museums in Apulia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Argentina",
+      "country": "Argentina",
+      "title": "List of museums in Argentina",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 70,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Arizona",
+      "country": "United States",
+      "title": "List of museums in Arizona",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 212,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Arkansas",
+      "country": "United States",
+      "title": "List of museums in Arkansas",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 170,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Armenia",
+      "country": "Armenia",
+      "title": "List of museums in Armenia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Atlanta",
+      "country": "United States",
+      "title": "List of museums in Atlanta",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 43,
+      "status": "ok",
+      "seconds": 4.6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Australia",
+      "country": "Australia",
+      "title": "List of museums in Australia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Austria",
+      "country": "Austria",
+      "title": "List of museums in Austria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Azerbaijan",
+      "country": "Azerbaijan",
+      "title": "List of museums in Azerbaijan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 49,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bahrain",
+      "country": "Bahrain",
+      "title": "List of museums in Bahrain",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 10,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Baltimore",
+      "country": "United States",
+      "title": "List of museums in Baltimore",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 60,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bangladesh",
+      "country": "Bangladesh",
+      "title": "List of museums in Bangladesh",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 60,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Barbados",
+      "country": "Barbados",
+      "title": "List of museums in Barbados",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Basilicata",
+      "country": "Italy",
+      "title": "List of museums in Basilicata",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bedfordshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Bedfordshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Belarus",
+      "country": "Belarus",
+      "title": "List of museums in Belarus",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Belgium",
+      "country": "Belgium",
+      "title": "List of museums in Belgium",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 85,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Belize",
+      "country": "Belize",
+      "title": "List of museums in Belize",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Benin",
+      "country": "Benin",
+      "title": "List of museums in Benin",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Berkshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Berkshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bhutan",
+      "country": "Bhutan",
+      "title": "List of museums in Bhutan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bihar",
+      "country": "India",
+      "title": "List of museums in Bihar",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 39,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bolivia",
+      "country": "Bolivia",
+      "title": "List of museums in Bolivia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bosnia_and_Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "title": "List of museums in Bosnia and Herzegovina",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 28,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Boston,_Massachusetts",
+      "country": "United States",
+      "title": "List of museums in Boston, Massachusetts",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 71,
+      "status": "ok",
+      "seconds": 4.6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Botswana",
+      "country": "Botswana",
+      "title": "List of museums in Botswana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Brazil",
+      "country": "Brazil",
+      "title": "List of museums in Brazil",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 38,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Brisbane",
+      "country": "Australia",
+      "title": "List of museums in Brisbane",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 41,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bristol",
+      "country": "United Kingdom",
+      "title": "List of museums in Bristol",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 19,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_British_Columbia",
+      "country": "Canada",
+      "title": "List of museums in British Columbia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 303,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Brunei",
+      "country": "Brunei",
+      "title": "List of museums in Brunei",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 17,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Buckinghamshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Buckinghamshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 32,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Bulgaria",
+      "country": "Bulgaria",
+      "title": "List of museums in Bulgaria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Burgenland",
+      "country": "Austria",
+      "title": "List of museums in Burgenland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 40,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Burkina_Faso",
+      "country": "Burkina Faso",
+      "title": "List of museums in Burkina Faso",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Burma",
+      "country": "Myanmar",
+      "title": "List of museums in Burma",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Burundi",
+      "country": "Burundi",
+      "title": "List of museums in Burundi",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Calabria",
+      "country": "Italy",
+      "title": "List of museums in Calabria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_California",
+      "country": "United States",
+      "title": "List of museums in California",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 176,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cambodia",
+      "country": "Cambodia",
+      "title": "List of museums in Cambodia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 16,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cambridgeshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Cambridgeshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 57,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cameroon",
+      "country": "Cameroon",
+      "title": "List of museums in Cameroon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Campania",
+      "country": "Italy",
+      "title": "List of museums in Campania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 28,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Canada",
+      "country": "Canada",
+      "title": "List of museums in Canada",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cape_Verde",
+      "country": "Cape Verde",
+      "title": "List of museums in Cape Verde",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Carinthia_(state)",
+      "country": "Austria",
+      "title": "List of museums in Carinthia (state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 57,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Chad",
+      "country": "Chad",
+      "title": "List of museums in Chad",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cheshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Cheshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 43,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Chile",
+      "country": "Chile",
+      "title": "List of museums in Chile",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_China",
+      "country": "China",
+      "title": "List of museums in China",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 224,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cincinnati",
+      "country": "United States",
+      "title": "List of museums in Cincinnati",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cleveland",
+      "country": "United States",
+      "title": "List of museums in Cleveland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 40,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Colombia",
+      "country": "Colombia",
+      "title": "List of museums in Colombia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 66,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Colorado",
+      "country": "United States",
+      "title": "List of museums in Colorado",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 314,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Columbus,_Ohio",
+      "country": "United States",
+      "title": "List of museums in Columbus, Ohio",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 4.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Connecticut",
+      "country": "United States",
+      "title": "List of museums in Connecticut",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 338,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cornwall",
+      "country": "United Kingdom",
+      "title": "List of museums in Cornwall",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 83,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Costa_Rica",
+      "country": "Costa Rica",
+      "title": "List of museums in Costa Rica",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 27,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_County_Durham",
+      "country": "United Kingdom",
+      "title": "List of museums in County Durham",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Croatia",
+      "country": "Croatia",
+      "title": "List of museums in Croatia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 172,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cuba",
+      "country": "Cuba",
+      "title": "List of museums in Cuba",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 90,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cumbria",
+      "country": "United Kingdom",
+      "title": "List of museums in Cumbria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 60,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Cyprus",
+      "country": "Cyprus",
+      "title": "List of museums in Cyprus",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 35,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Delaware",
+      "country": "United States",
+      "title": "List of museums in Delaware",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 89,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Denmark",
+      "country": "Denmark",
+      "title": "List of museums in Denmark",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 499,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Derbyshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Derbyshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 59,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Devon",
+      "country": "United Kingdom",
+      "title": "List of museums in Devon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 126,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Djibouti",
+      "country": "Djibouti",
+      "title": "List of museums in Djibouti",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 1,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Dominica",
+      "country": "Dominica",
+      "title": "List of museums in Dominica",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Dorset",
+      "country": "United Kingdom",
+      "title": "List of museums in Dorset",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 76,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_East_Sussex",
+      "country": "United Kingdom",
+      "title": "List of museums in East Sussex",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 68,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ecuador",
+      "country": "Ecuador",
+      "title": "List of museums in Ecuador",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 38,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Egypt",
+      "country": "Egypt",
+      "title": "List of museums in Egypt",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 50,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_El_Salvador",
+      "country": "El Salvador",
+      "title": "List of museums in El Salvador",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 16,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Emilia-Romagna",
+      "country": "Italy",
+      "title": "List of museums in Emilia-Romagna",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 36,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_England",
+      "country": "United Kingdom",
+      "title": "List of museums in England",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Equatorial_Guinea",
+      "country": "Equatorial Guinea",
+      "title": "List of museums in Equatorial Guinea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Eritrea",
+      "country": "Eritrea",
+      "title": "List of museums in Eritrea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Essex",
+      "country": "United Kingdom",
+      "title": "List of museums in Essex",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 100,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Estonia",
+      "country": "Estonia",
+      "title": "List of museums in Estonia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 108,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ethiopia",
+      "country": "Ethiopia",
+      "title": "List of museums in Ethiopia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 7,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Fiji",
+      "country": "Fiji",
+      "title": "List of museums in Fiji",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 7,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Finland",
+      "country": "Finland",
+      "title": "List of museums in Finland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 139,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Florida",
+      "country": "United States",
+      "title": "List of museums in Florida",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 540,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_France",
+      "country": "France",
+      "title": "List of museums in France",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 914,
+      "status": "ok",
+      "seconds": 0.9
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Friuli_Venezia_Giulia",
+      "country": "Italy",
+      "title": "List of museums in Friuli Venezia Giulia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Gabon",
+      "country": "Gabon",
+      "title": "List of museums in Gabon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Georgia_(U.S._state)",
+      "country": "United States",
+      "title": "List of museums in Georgia (U.S. state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 316,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Georgia_(country)",
+      "country": "Georgia",
+      "title": "List of museums in Georgia (country)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Germany",
+      "country": "Germany",
+      "title": "List of museums in Germany",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 256,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ghana",
+      "country": "Ghana",
+      "title": "List of museums in Ghana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 28,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Gloucestershire",
+      "country": "United Kingdom",
+      "title": "List of museums in Gloucestershire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 56,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Greater_Manchester",
+      "country": "United Kingdom",
+      "title": "List of museums in Greater Manchester",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 63,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Greece",
+      "country": "Greece",
+      "title": "List of museums in Greece",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 389,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Greenland",
+      "country": "Greenland",
+      "title": "List of museums in Greenland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 19,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Guatemala",
+      "country": "Guatemala",
+      "title": "List of museums in Guatemala",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 55,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Guinea",
+      "country": "Guinea",
+      "title": "List of museums in Guinea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 7,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Guinea-Bissau",
+      "country": "Guinea-Bissau",
+      "title": "List of museums in Guinea-Bissau",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Guyana",
+      "country": "Guyana",
+      "title": "List of museums in Guyana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Haiti",
+      "country": "Haiti",
+      "title": "List of museums in Haiti",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 21,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Hampshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Hampshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 95,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Hawaii",
+      "country": "United States",
+      "title": "List of museums in Hawaii",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 77,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Herefordshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Herefordshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 29,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Hertfordshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Hertfordshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 44,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Honduras",
+      "country": "Honduras",
+      "title": "List of museums in Honduras",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 17,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Hungary",
+      "country": "Hungary",
+      "title": "List of museums in Hungary",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Huntington,_West_Virginia",
+      "country": "United States",
+      "title": "List of museums in Huntington, West Virginia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Iceland",
+      "country": "Iceland",
+      "title": "List of museums in Iceland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 41,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Idaho",
+      "country": "United States",
+      "title": "List of museums in Idaho",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 123,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Illinois",
+      "country": "United States",
+      "title": "List of museums in Illinois",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 641,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_India",
+      "country": "India",
+      "title": "List of museums in India",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 236,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Indiana",
+      "country": "United States",
+      "title": "List of museums in Indiana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 399,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Iowa",
+      "country": "United States",
+      "title": "List of museums in Iowa",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 393,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Iran",
+      "country": "Iran",
+      "title": "List of museums in Iran",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 86,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Iraq",
+      "country": "Iraq",
+      "title": "List of museums in Iraq",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 19,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Italy",
+      "country": "Italy",
+      "title": "List of museums in Italy",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 434,
+      "status": "ok",
+      "seconds": 0.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ivory_Coast",
+      "country": "Ivory Coast",
+      "title": "List of museums in Ivory Coast",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Jamaica",
+      "country": "Jamaica",
+      "title": "List of museums in Jamaica",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Japan",
+      "country": "Japan",
+      "title": "List of museums in Japan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 1278,
+      "status": "ok",
+      "seconds": 1.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Jordan",
+      "country": "Jordan",
+      "title": "List of museums in Jordan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 15,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kansas",
+      "country": "United States",
+      "title": "List of museums in Kansas",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 342,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Karnataka",
+      "country": "India",
+      "title": "List of museums in Karnataka",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 38,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kazakhstan",
+      "country": "Kazakhstan",
+      "title": "List of museums in Kazakhstan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 22,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kent",
+      "country": "United Kingdom",
+      "title": "List of museums in Kent",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 132,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kentucky",
+      "country": "United States",
+      "title": "List of museums in Kentucky",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 221,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kenya",
+      "country": "Kenya",
+      "title": "List of museums in Kenya",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 47,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kerala",
+      "country": "India",
+      "title": "List of museums in Kerala",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kiribati",
+      "country": "Kiribati",
+      "title": "List of museums in Kiribati",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 1,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kuwait",
+      "country": "Kuwait",
+      "title": "List of museums in Kuwait",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 37,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Kyrgyzstan",
+      "country": "Kyrgyzstan",
+      "title": "List of museums in Kyrgyzstan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lancashire",
+      "country": "United Kingdom",
+      "title": "List of museums in Lancashire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 59,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Laos",
+      "country": "Laos",
+      "title": "List of museums in Laos",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Latvia",
+      "country": "Latvia",
+      "title": "List of museums in Latvia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 38,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lazio",
+      "country": "Italy",
+      "title": "List of museums in Lazio",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 59,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lebanon",
+      "country": "Lebanon",
+      "title": "List of museums in Lebanon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Leicestershire",
+      "country": "United Kingdom",
+      "title": "List of museums in Leicestershire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 50,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lesotho",
+      "country": "Lesotho",
+      "title": "List of museums in Lesotho",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Liberia",
+      "country": "Liberia",
+      "title": "List of museums in Liberia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Libya",
+      "country": "Libya",
+      "title": "List of museums in Libya",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 26,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Liechtenstein",
+      "country": "Liechtenstein",
+      "title": "List of museums in Liechtenstein",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Liguria",
+      "country": "Italy",
+      "title": "List of museums in Liguria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 18,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lincolnshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Lincolnshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 83,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lithuania",
+      "country": "Lithuania",
+      "title": "List of museums in Lithuania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 33,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lombardy",
+      "country": "Italy",
+      "title": "List of museums in Lombardy",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_London",
+      "country": "United Kingdom",
+      "title": "List of museums in London",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 338,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Louisiana",
+      "country": "United States",
+      "title": "List of museums in Louisiana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 232,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Lower_Austria",
+      "country": "Austria",
+      "title": "List of museums in Lower Austria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 82,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Luxembourg",
+      "country": "Luxembourg",
+      "title": "List of museums in Luxembourg",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 36,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Madagascar",
+      "country": "Madagascar",
+      "title": "List of museums in Madagascar",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Madhya_Pradesh",
+      "country": "India",
+      "title": "List of museums in Madhya Pradesh",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Maine",
+      "country": "United States",
+      "title": "List of museums in Maine",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 282,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Malawi",
+      "country": "Malawi",
+      "title": "List of museums in Malawi",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 12,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Malaysia",
+      "country": "Malaysia",
+      "title": "List of museums in Malaysia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 135,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mali",
+      "country": "Mali",
+      "title": "List of museums in Mali",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Malta",
+      "country": "Malta",
+      "title": "List of museums in Malta",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 42,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Manitoba",
+      "country": "Canada",
+      "title": "List of museums in Manitoba",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 197,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Marche",
+      "country": "Italy",
+      "title": "List of museums in Marche",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Maryland",
+      "country": "United States",
+      "title": "List of museums in Maryland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 309,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Massachusetts",
+      "country": "United States",
+      "title": "List of museums in Massachusetts",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 507,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mauritania",
+      "country": "Mauritania",
+      "title": "List of museums in Mauritania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mauritius",
+      "country": "Mauritius",
+      "title": "List of museums in Mauritius",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 15,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Melbourne",
+      "country": "Australia",
+      "title": "List of museums in Melbourne",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 46,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Merseyside",
+      "country": "United Kingdom",
+      "title": "List of museums in Merseyside",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 49,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mexico",
+      "country": "Mexico",
+      "title": "List of museums in Mexico",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 317,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Michigan",
+      "country": "United States",
+      "title": "List of museums in Michigan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 579,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Milan",
+      "country": "Italy",
+      "title": "List of museums in Milan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 60,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Minnesota",
+      "country": "United States",
+      "title": "List of museums in Minnesota",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 367,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mississippi",
+      "country": "United States",
+      "title": "List of museums in Mississippi",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 194,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Missouri",
+      "country": "United States",
+      "title": "List of museums in Missouri",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 311,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Moldova",
+      "country": "Moldova",
+      "title": "List of museums in Moldova",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Molise",
+      "country": "Italy",
+      "title": "List of museums in Molise",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 37,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Monaco",
+      "country": "Monaco",
+      "title": "List of museums in Monaco",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mongolia",
+      "country": "Mongolia",
+      "title": "List of museums in Mongolia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 39,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Montana",
+      "country": "United States",
+      "title": "List of museums in Montana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 165,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Montenegro",
+      "country": "Montenegro",
+      "title": "List of museums in Montenegro",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Montevideo",
+      "country": "Uruguay",
+      "title": "List of museums in Montevideo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 48,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Montreal",
+      "country": "Canada",
+      "title": "List of museums in Montreal",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 68,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Morocco",
+      "country": "Morocco",
+      "title": "List of museums in Morocco",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 35,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Mozambique",
+      "country": "Mozambique",
+      "title": "List of museums in Mozambique",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Myanmar",
+      "country": "Myanmar",
+      "title": "List of museums in Myanmar",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Namibia",
+      "country": "Namibia",
+      "title": "List of museums in Namibia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 15,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nauru",
+      "country": "Nauru",
+      "title": "List of museums in Nauru",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nebraska",
+      "country": "United States",
+      "title": "List of museums in Nebraska",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 264,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nepal",
+      "country": "Nepal",
+      "title": "List of museums in Nepal",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 53,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nevada",
+      "country": "United States",
+      "title": "List of museums in Nevada",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 109,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Brunswick",
+      "country": "Canada",
+      "title": "List of museums in New Brunswick",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 113,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Hampshire",
+      "country": "United States",
+      "title": "List of museums in New Hampshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 201,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Jersey",
+      "country": "United States",
+      "title": "List of museums in New Jersey",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 388,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Mexico",
+      "country": "United States",
+      "title": "List of museums in New Mexico",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 174,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Orleans,_Louisiana",
+      "country": "United States",
+      "title": "List of museums in New Orleans, Louisiana",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 50,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_South_Wales",
+      "country": "Australia",
+      "title": "List of museums in New South Wales",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 266,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_York_(state)",
+      "country": "United States",
+      "title": "List of museums in New York (state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 794,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_York_City",
+      "country": "United States",
+      "title": "List of museums in New York City",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 234,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_New_Zealand",
+      "country": "New Zealand",
+      "title": "List of museums in New Zealand",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 147,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Newfoundland_and_Labrador",
+      "country": "Canada",
+      "title": "List of museums in Newfoundland and Labrador",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 84,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nicaragua",
+      "country": "Nicaragua",
+      "title": "List of museums in Nicaragua",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 54,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Niger",
+      "country": "Niger",
+      "title": "List of museums in Niger",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nigeria",
+      "country": "Nigeria",
+      "title": "List of museums in Nigeria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 22,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Norfolk",
+      "country": "United Kingdom",
+      "title": "List of museums in Norfolk",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 90,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_North_Carolina",
+      "country": "United States",
+      "title": "List of museums in North Carolina",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 518,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_North_Dakota",
+      "country": "United States",
+      "title": "List of museums in North Dakota",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 138,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_North_Korea",
+      "country": "North Korea",
+      "title": "List of museums in North Korea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 25,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_North_Macedonia",
+      "country": "North Macedonia",
+      "title": "List of museums in North Macedonia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 11,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_North_Yorkshire",
+      "country": "United Kingdom",
+      "title": "List of museums in North Yorkshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 88,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Northamptonshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Northamptonshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 36,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Northern_Ireland",
+      "country": "United Kingdom",
+      "title": "List of museums in Northern Ireland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 122,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Northumberland",
+      "country": "United Kingdom",
+      "title": "List of museums in Northumberland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 42,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Norway",
+      "country": "Norway",
+      "title": "List of museums in Norway",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 143,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nottinghamshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Nottinghamshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 44,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Nova_Scotia",
+      "country": "Canada",
+      "title": "List of museums in Nova Scotia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 216,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ohio",
+      "country": "United States",
+      "title": "List of museums in Ohio",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 497,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Oklahoma",
+      "country": "United States",
+      "title": "List of museums in Oklahoma",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 313,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Oman",
+      "country": "Oman",
+      "title": "List of museums in Oman",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 16,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ontario",
+      "country": "Canada",
+      "title": "List of museums in Ontario",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 540,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Oregon",
+      "country": "United States",
+      "title": "List of museums in Oregon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 278,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ottawa",
+      "country": "Canada",
+      "title": "List of museums in Ottawa",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 61,
+      "status": "ok",
+      "seconds": 5.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Oxford",
+      "country": "United Kingdom",
+      "title": "List of museums in Oxford",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 4.7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Oxfordshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Oxfordshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 55,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Pakistan",
+      "country": "Pakistan",
+      "title": "List of museums in Pakistan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 71,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Palau",
+      "country": "Palau",
+      "title": "List of museums in Palau",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Palestine",
+      "country": "Palestine",
+      "title": "List of museums in Palestine",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 33,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Panama",
+      "country": "Panama",
+      "title": "List of museums in Panama",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Papua_New_Guinea",
+      "country": "Papua New Guinea",
+      "title": "List of museums in Papua New Guinea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Paraguay",
+      "country": "Paraguay",
+      "title": "List of museums in Paraguay",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Pennsylvania",
+      "country": "United States",
+      "title": "List of museums in Pennsylvania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 531,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Peru",
+      "country": "Peru",
+      "title": "List of museums in Peru",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 28,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Piedmont",
+      "country": "Italy",
+      "title": "List of museums in Piedmont",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 44,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Portland,_Oregon",
+      "country": "United States",
+      "title": "List of museums in Portland, Oregon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Portugal",
+      "country": "Portugal",
+      "title": "List of museums in Portugal",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 188,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Prince_Edward_Island",
+      "country": "Canada",
+      "title": "List of museums in Prince Edward Island",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 42,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Bergamo",
+      "country": "Italy",
+      "title": "List of museums in Province of Bergamo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 18,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Brescia",
+      "country": "Italy",
+      "title": "List of museums in Province of Brescia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 42,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Como",
+      "country": "Italy",
+      "title": "List of museums in Province of Como",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 33,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Cremona",
+      "country": "Italy",
+      "title": "List of museums in Province of Cremona",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Lecco",
+      "country": "Italy",
+      "title": "List of museums in Province of Lecco",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Lodi",
+      "country": "Italy",
+      "title": "List of museums in Province of Lodi",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 24,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Mantua",
+      "country": "Italy",
+      "title": "List of museums in Province of Mantua",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 46,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Milan",
+      "country": "Italy",
+      "title": "List of museums in Province of Milan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 81,
+      "status": "ok",
+      "seconds": 4.4
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Pavia",
+      "country": "Italy",
+      "title": "List of museums in Province of Pavia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 5.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Sondrio",
+      "country": "Italy",
+      "title": "List of museums in Province of Sondrio",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 5.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Province_of_Varese",
+      "country": "Italy",
+      "title": "List of museums in Province of Varese",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 5.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Puerto_Rico",
+      "country": "United States",
+      "title": "List of museums in Puerto Rico",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 124,
+      "status": "ok",
+      "seconds": 5.7
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Qatar",
+      "country": "Qatar",
+      "title": "List of museums in Qatar",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 17,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Quebec",
+      "country": "Canada",
+      "title": "List of museums in Quebec",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 317,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Quebec_City",
+      "country": "Canada",
+      "title": "List of museums in Quebec City",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 16,
+      "status": "ok",
+      "seconds": 4.5
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Queensland",
+      "country": "Australia",
+      "title": "List of museums in Queensland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 223,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Rajasthan",
+      "country": "India",
+      "title": "List of museums in Rajasthan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Rhode_Island",
+      "country": "United States",
+      "title": "List of museums in Rhode Island",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 101,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Romania",
+      "country": "Romania",
+      "title": "List of museums in Romania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 72,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Russia",
+      "country": "Russia",
+      "title": "List of museums in Russia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 97,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Rutland",
+      "country": "United Kingdom",
+      "title": "List of museums in Rutland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Rwanda",
+      "country": "Rwanda",
+      "title": "List of museums in Rwanda",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Saint_Kitts_and_Nevis",
+      "country": "Saint Kitts and Nevis",
+      "title": "List of museums in Saint Kitts and Nevis",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Salzburg_(state)",
+      "country": "Austria",
+      "title": "List of museums in Salzburg (state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 57,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Samoa",
+      "country": "Samoa",
+      "title": "List of museums in Samoa",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_San_Marino",
+      "country": "San Marino",
+      "title": "List of museums in San Marino",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sardinia",
+      "country": "Italy",
+      "title": "List of museums in Sardinia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 11,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Saskatchewan",
+      "country": "Canada",
+      "title": "List of museums in Saskatchewan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 254,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Saudi_Arabia",
+      "country": "Saudi Arabia",
+      "title": "List of museums in Saudi Arabia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 32,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Scotland",
+      "country": "United Kingdom",
+      "title": "List of museums in Scotland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 496,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Seattle,_Washington",
+      "country": "United States",
+      "title": "List of museums in Seattle, Washington",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 45,
+      "status": "ok",
+      "seconds": 4.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Senegal",
+      "country": "Senegal",
+      "title": "List of museums in Senegal",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Serbia",
+      "country": "Serbia",
+      "title": "List of museums in Serbia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 58,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Seychelles",
+      "country": "Seychelles",
+      "title": "List of museums in Seychelles",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Shropshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Shropshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 46,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sicily",
+      "country": "Italy",
+      "title": "List of museums in Sicily",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sierra_Leone",
+      "country": "Sierra Leone",
+      "title": "List of museums in Sierra Leone",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Singapore",
+      "country": "Singapore",
+      "title": "List of museums in Singapore",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 52,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Slovakia",
+      "country": "Slovakia",
+      "title": "List of museums in Slovakia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Slovenia",
+      "country": "Slovenia",
+      "title": "List of museums in Slovenia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 129,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Solomon_Islands",
+      "country": "Solomon Islands",
+      "title": "List of museums in Solomon Islands",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Somalia",
+      "country": "Somalia",
+      "title": "List of museums in Somalia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Somaliland",
+      "country": "Somalia",
+      "title": "List of museums in Somaliland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Somerset",
+      "country": "United Kingdom",
+      "title": "List of museums in Somerset",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 85,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Africa",
+      "country": "South Africa",
+      "title": "List of museums in South Africa",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 101,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Australia",
+      "country": "Australia",
+      "title": "List of museums in South Australia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 171,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Carolina",
+      "country": "United States",
+      "title": "List of museums in South Carolina",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 228,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Dakota",
+      "country": "United States",
+      "title": "List of museums in South Dakota",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 160,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Korea",
+      "country": "South Korea",
+      "title": "List of museums in South Korea",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 152,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Sudan",
+      "country": "South Sudan",
+      "title": "List of museums in South Sudan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_South_Yorkshire",
+      "country": "United Kingdom",
+      "title": "List of museums in South Yorkshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 39,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Spain",
+      "country": "Spain",
+      "title": "List of museums in Spain",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 473,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sri_Lanka",
+      "country": "Sri Lanka",
+      "title": "List of museums in Sri Lanka",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 54,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Staffordshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Staffordshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 43,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Styria",
+      "country": "Austria",
+      "title": "List of museums in Styria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 32,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sudan",
+      "country": "Sudan",
+      "title": "List of museums in Sudan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 10,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Suffolk",
+      "country": "United Kingdom",
+      "title": "List of museums in Suffolk",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 78,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Suriname",
+      "country": "Suriname",
+      "title": "List of museums in Suriname",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 20,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Surrey",
+      "country": "United Kingdom",
+      "title": "List of museums in Surrey",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 53,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Svalbard",
+      "country": "Norway",
+      "title": "List of museums in Svalbard",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Swaziland",
+      "country": "Eswatini",
+      "title": "List of museums in Swaziland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sweden",
+      "country": "Sweden",
+      "title": "List of museums in Sweden",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 95,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Switzerland",
+      "country": "Switzerland",
+      "title": "List of museums in Switzerland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 145,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Sydney",
+      "country": "Australia",
+      "title": "List of museums in Sydney",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 45,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Syria",
+      "country": "Syria",
+      "title": "List of museums in Syria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_São_Tomé_and_Príncipe",
+      "country": "São Tomé and Príncipe",
+      "title": "List of museums in São Tomé and Príncipe",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 6.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Taiwan",
+      "country": "Taiwan",
+      "title": "List of museums in Taiwan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 230,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tajikistan",
+      "country": "Tajikistan",
+      "title": "List of museums in Tajikistan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 6,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tanzania",
+      "country": "Tanzania",
+      "title": "List of museums in Tanzania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 13,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tasmania",
+      "country": "Australia",
+      "title": "List of museums in Tasmania",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 71,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tehran",
+      "country": "Iran",
+      "title": "List of museums in Tehran",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 72,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tennessee",
+      "country": "United States",
+      "title": "List of museums in Tennessee",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 302,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Texas",
+      "country": "United States",
+      "title": "List of museums in Texas",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Thailand",
+      "country": "Thailand",
+      "title": "List of museums in Thailand",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 23,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Timor-Leste",
+      "country": "Timor-Leste",
+      "title": "List of museums in Timor-Leste",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 11,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Togo",
+      "country": "Togo",
+      "title": "List of museums in Togo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tonga",
+      "country": "Tonga",
+      "title": "List of museums in Tonga",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 5,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Toronto",
+      "country": "Canada",
+      "title": "List of museums in Toronto",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 79,
+      "status": "ok",
+      "seconds": 4.6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Trinidad_and_Tobago",
+      "country": "Trinidad and Tobago",
+      "title": "List of museums in Trinidad and Tobago",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 21,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tunisia",
+      "country": "Tunisia",
+      "title": "List of museums in Tunisia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Turkey",
+      "country": "Türkiye",
+      "title": "List of museums in Turkey",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 233,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Turkmenistan",
+      "country": "Turkmenistan",
+      "title": "List of museums in Turkmenistan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 16,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tuscany",
+      "country": "Italy",
+      "title": "List of museums in Tuscany",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 50,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tuvalu",
+      "country": "Tuvalu",
+      "title": "List of museums in Tuvalu",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tyne_and_Wear",
+      "country": "United Kingdom",
+      "title": "List of museums in Tyne and Wear",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 43,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Tyrol_(state)",
+      "country": "Austria",
+      "title": "List of museums in Tyrol (state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 47,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Uganda",
+      "country": "Uganda",
+      "title": "List of museums in Uganda",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 31,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Ukraine",
+      "country": "Ukraine",
+      "title": "List of museums in Ukraine",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 253,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Umbria",
+      "country": "Italy",
+      "title": "List of museums in Umbria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 10,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Upper_Austria",
+      "country": "Austria",
+      "title": "List of museums in Upper Austria",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 45,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Upper_Normandy",
+      "country": "France",
+      "title": "List of museums in Upper Normandy",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 32,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Uruguay",
+      "country": "Uruguay",
+      "title": "List of museums in Uruguay",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Utah",
+      "country": "United States",
+      "title": "List of museums in Utah",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 237,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Uzbekistan",
+      "country": "Uzbekistan",
+      "title": "List of museums in Uzbekistan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vanuatu",
+      "country": "Vanuatu",
+      "title": "List of museums in Vanuatu",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vatican_City",
+      "country": "Vatican City",
+      "title": "List of museums in Vatican City",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Veneto",
+      "country": "Italy",
+      "title": "List of museums in Veneto",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 59,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Venezuela",
+      "country": "Venezuela",
+      "title": "List of museums in Venezuela",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 17,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vermont",
+      "country": "United States",
+      "title": "List of museums in Vermont",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 142,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Victoria_(Australia)",
+      "country": "Australia",
+      "title": "List of museums in Victoria (Australia)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 151,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vienna",
+      "country": "Austria",
+      "title": "List of museums in Vienna",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 95,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vietnam",
+      "country": "Vietnam",
+      "title": "List of museums in Vietnam",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 27,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Virginia",
+      "country": "United States",
+      "title": "List of museums in Virginia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 544,
+      "status": "ok",
+      "seconds": 0.2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Vorarlberg",
+      "country": "Austria",
+      "title": "List of museums in Vorarlberg",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 68,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Wales",
+      "country": "United Kingdom",
+      "title": "List of museums in Wales",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 217,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Warwickshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Warwickshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 39,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Washington_(state)",
+      "country": "United States",
+      "title": "List of museums in Washington (state)",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 272,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Washington,_D.C.",
+      "country": "United States",
+      "title": "List of museums in Washington, D.C.",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 99,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Bengal",
+      "country": "India",
+      "title": "List of museums in West Bengal",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 23,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Sussex",
+      "country": "United Kingdom",
+      "title": "List of museums in West Sussex",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 47,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Virginia",
+      "country": "United States",
+      "title": "List of museums in West Virginia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 165,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_West_Yorkshire",
+      "country": "United Kingdom",
+      "title": "List of museums in West Yorkshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 79,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Western_Australia",
+      "country": "Australia",
+      "title": "List of museums in Western Australia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 160,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Wiltshire",
+      "country": "United Kingdom",
+      "title": "List of museums in Wiltshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 60,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Wisconsin",
+      "country": "United States",
+      "title": "List of museums in Wisconsin",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 436,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Worcestershire",
+      "country": "United Kingdom",
+      "title": "List of museums in Worcestershire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 37,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Wyoming",
+      "country": "United States",
+      "title": "List of museums in Wyoming",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 111,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Yangon",
+      "country": "Myanmar",
+      "title": "List of museums in Yangon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Yemen",
+      "country": "Yemen",
+      "title": "List of museums in Yemen",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Yerevan",
+      "country": "Armenia",
+      "title": "List of museums in Yerevan",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 55,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Yukon",
+      "country": "Canada",
+      "title": "List of museums in Yukon",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 22,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Zambia",
+      "country": "Zambia",
+      "title": "List of museums in Zambia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 9,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Zimbabwe",
+      "country": "Zimbabwe",
+      "title": "List of museums in Zimbabwe",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 23,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Australian_Capital_Territory",
+      "country": "Australia",
+      "title": "List of museums in the Australian Capital Territory",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Bahamas",
+      "country": "Bahamas",
+      "title": "List of museums in the Bahamas",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 15,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Central_African_Republic",
+      "country": "Central African Republic",
+      "title": "List of museums in the Central African Republic",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Comoros",
+      "country": "Comoros",
+      "title": "List of museums in the Comoros",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 1,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Czech_Republic",
+      "country": "Czechia",
+      "title": "List of museums in the Czech Republic",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 62,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Democratic_Republic_of_the_Congo",
+      "country": "Democratic Republic of the Congo",
+      "title": "List of museums in the Democratic Republic of the Congo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 10,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Dominican_Republic",
+      "country": "Dominican Republic",
+      "title": "List of museums in the Dominican Republic",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 8,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_East_Riding_of_Yorkshire",
+      "country": "United Kingdom",
+      "title": "List of museums in the East Riding of Yorkshire",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 34,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Federated_States_of_Micronesia",
+      "country": "Federated States of Micronesia",
+      "title": "List of museums in the Federated States of Micronesia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Gambia",
+      "country": "The Gambia",
+      "title": "List of museums in the Gambia",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Marshall_Islands",
+      "country": "Marshall Islands",
+      "title": "List of museums in the Marshall Islands",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 2,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Netherlands",
+      "country": "Netherlands",
+      "title": "List of museums in the Netherlands",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 670,
+      "status": "ok",
+      "seconds": 0.6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Northern_Territory",
+      "country": "Australia",
+      "title": "List of museums in the Northern Territory",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 39,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Northwest_Territories",
+      "country": "Canada",
+      "title": "List of museums in the Northwest Territories",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 4,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Philippines",
+      "country": "Philippines",
+      "title": "List of museums in the Philippines",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 45,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Republic_of_Artsakh",
+      "country": "Armenia",
+      "title": "List of museums in the Republic of Artsakh",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 21,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Republic_of_Ireland",
+      "country": "Ireland",
+      "title": "List of museums in the Republic of Ireland",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 243,
+      "status": "ok",
+      "seconds": 0.3
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_Republic_of_the_Congo",
+      "country": "Republic of the Congo",
+      "title": "List of museums in the Republic of the Congo",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 3,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_U.S._territories",
+      "country": "United States",
+      "title": "List of museums in the U.S. territories",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_United_Arab_Emirates",
+      "country": "United Arab Emirates",
+      "title": "List of museums in the United Arab Emirates",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 30,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_United_Kingdom",
+      "country": "United Kingdom",
+      "title": "List of museums in the United Kingdom",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 14,
+      "status": "ok",
+      "seconds": 0.1
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_United_States",
+      "country": "United States",
+      "title": "List of museums in the United States",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 0,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_the_West_Midlands",
+      "country": "United Kingdom",
+      "title": "List of museums in the West Midlands",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 64,
+      "status": "ok",
+      "seconds": 0.0
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Trentino-Alto_Adige/Südtirol",
+      "country": "Italy",
+      "title": "Südtirol",
+      "retrieved": "2026-10-23",
+      "license": "CC BY-SA 4.0",
+      "records": 10,
+      "status": "ok",
+      "seconds": 5.0
+    }
+  ]
+}
